@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BirdManAR-0.1";
 const contentToCache = [
-    "Build/BirdMan.loader.js",
-    "Build/BirdMan.framework.js",
-    "Build/BirdMan.data",
-    "Build/BirdMan.wasm",
+    "Build/docs.loader.js",
+    "Build/docs.framework.js",
+    "Build/docs.data",
+    "Build/docs.wasm",
     "TemplateData/style.css"
 
 ];
